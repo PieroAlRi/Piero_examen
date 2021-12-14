@@ -1,0 +1,37 @@
+fieldset {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 100%;
+}
+legend {
+    font-size: 20px;
+    background-color: black;
+    color: white;
+}
+h1 {
+    color: green;
+    text-align: center;
+}
+form {
+    margin-left: 650px;
+    margin-right: 650px;
+}
+body {
+    align-content: center;
+}
+#fil {
+    border-color: white;
+}
+
+#in {
+    margin-left: 115px;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
+
+#in2 {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+}
