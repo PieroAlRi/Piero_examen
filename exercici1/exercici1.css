@@ -1,0 +1,25 @@
+table {
+    border-color: #000000;
+    border-collapse: collapse;
+    margin-left: 20%;
+    margin-right: 20%
+}
+.c1 {
+    background-color: red;
+}
+td {
+    border-width: 90px;
+    border-color: #000000;
+    width: 400px; 
+    height: 200px;
+}
+p {
+    text-align: center;
+    font-size: 150px;
+    margin-top: -10px;
+    margin-bottom: -10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
